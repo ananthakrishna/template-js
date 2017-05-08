@@ -1,0 +1,20 @@
+{
+  "name": "Receipting_js",
+  "version": "1.0.0",
+  "description": "A reference for creating cordova app templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ananthakrishna/template-js.git"
+  },
+  "homepage": "https://github.com/ananthakrishna/template-js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Ananth",
+  "license": "Apache-2.0"
+}
